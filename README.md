@@ -10,5 +10,5 @@
 ### + Có thể các chức năng mới như: đưa ra gợi ý cho người dùng chi tiêu hợp lý,......
 ## Thành viên nhóm
 ### - Vũ Thành Dương
-### - Phạm Văn Thân
+### - Phạm Văn Thân (Ego)
 ### - Nguyễn Danh Hiếu
