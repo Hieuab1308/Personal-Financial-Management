@@ -8,7 +8,7 @@
 ### + Có thể có bảng thông kê khoản chi với các mức chi cao nhất cho cái gì đến thấp nhất cho cái gì thông qua biểu đồ hoặc bẳng thống kê có tính toán
 ### + Có thể có bảng thống kê tính toán khoản thu và khoản chi xem chênh nhau như nào lỗ hay lãi dựa vào biểu đồ hoặc bảng số liệu
 ### + Có thể các chức năng mới như: đưa ra gợi ý cho người dùng chi tiêu hợp lý,......
-# Thành viên nhóm
-## - Vũ Thành Dương
-## - Phạm Văn Thân
-## - Nguyễn Danh Hiếu
+## Thành viên nhóm
+### - Vũ Thành Dương
+### - Phạm Văn Thân
+### - Nguyễn Danh Hiếu
